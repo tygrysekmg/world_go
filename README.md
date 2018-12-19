@@ -1,2 +1,2 @@
 # world_go
-follow image go.png
+follow image go2.png
